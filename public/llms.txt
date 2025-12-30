@@ -1,0 +1,59 @@
+# 10fix — Generative Engine Optimization Map
+
+> A אביזרים לסלולר business.
+
+---
+
+## Pages
+
+### דף הבית
+https://10fix-e4c59f01.zappy5.app
+גלו אביזרים לסלולר ב-10 שקלים! כיסויים, מטענים, אוזניות ועוד. משלוח מהיר, מבצעים מיוחדים. הזמינו עכשיו!
+
+### המוצרים שלנו
+https://10fix-e4c59f01.zappy5.app/products
+עיינו בקטלוג המלא שלנו - כיסויים לסלולר במחיר מבצע, מטענים, אוזניות, כבלים ועוד. כל מוצר רק ב-10 שקלים!
+
+### אודות
+https://10fix-e4c59f01.zappy5.app/about
+למדו על המשימה שלנו להנגיש אביזרים לסלולר איכותיים לכולם. הצטרפו למהפכת ה-10 שקלים!
+
+### צור קשר
+https://10fix-e4c59f01.zappy5.app/contact
+יש לכם שאלות על אביזרים לסלולר ב-10 שקלים? צרו איתנו קשר ונשמח לעזור. שירות מהיר ומקצועי!
+
+## Legal & Policy
+
+### Privacy Policy
+https://10fix-e4c59f01.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://10fix-e4c59f01.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://10fix-e4c59f01.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About 10fix
+10fix is a business in the אביזרים לסלולר industry.
+
+## Target Audience
+- חובבי טכנולוגיה
+- מקצוענים צעירים
+- גיימרים בסלולר
+
+## Industry
+אביזרים לסלולר
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://10fix-e4c59f01.zappy5.app/sitemap.xml
+- **Robots.txt**: https://10fix-e4c59f01.zappy5.app/robots.txt
